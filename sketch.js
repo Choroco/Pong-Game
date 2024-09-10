@@ -36,7 +36,7 @@ function preload() {
 
 function setup() {
   createCanvas(600, 400);
-  somTrilha.loop();
+  //somTrilha.loop();
 }
 
 function draw() {
